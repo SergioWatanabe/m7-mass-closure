@@ -1,0 +1,7 @@
+aerosol_emulation_data/
+aerosol_emulation_data.zip
+__pycache__/
+*.pyc
+.DS_Store
+results/W_*.npy
+results/*.log
